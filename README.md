@@ -2,7 +2,7 @@
 
 Link repo front: https://github.com/Geroncity2210/frontend_Blink
 
-Link repo back: 
+Link repo back: https://github.com/DarekAlma/firebasetest
 
 Link desplegado front: https://frontend-blink.vercel.app/
 
